@@ -7,4 +7,4 @@
 ![SQLITE](https://img.shields.io/badge/sqlite-black?style=flat&logo=sqlite&link=https://github.com/barja8/SQL4Geographers)
 
 
-![Barja's github stats](https://github-readme-stats.vercel.app/api?username=barja8&show_icons=true&theme=highcontrast)
+![Barja's github stats](https://github-readme-stats.vercel.app/api?username=barja8&show_icons=true&theme=default)
