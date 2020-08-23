@@ -5,14 +5,3 @@ Hi my name is Antony, I'm a freelance engineer geographer  from Peru with focus 
 <p align="center">
   <img src='https://user-images.githubusercontent.com/23284899/89610216-960a0600-d83f-11ea-8ba8-79d5053391a1.gif' />
 </p>
-
-<!---/>
-### Skills
-<h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=barja8&amp;show_icons=true" alt="GitHub Stats"></p>
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badg&logo=postgresql&link=https://github.com/barja8/SQL4Geographers)
-![QGIS](https://img.shields.io/badge/-QGIS-black?style=for-the-badg&logo=qgis&link=https://github.com/barja8/SQL4Geographers)
-![PostGIS](https://img.shields.io/badge/studio-black?style=for-the-badg&logo=rstudio&link=https://github.com/barja8/SQL4Geographers)
-![SQLITE](https://img.shields.io/badge/sqlite-black?style=for-the-badg&logo=sqlite&link=https://github.com/barja8/SQL4Geographers)
-<>
