@@ -9,8 +9,8 @@ Hi, my name is Antony, I'm a freelance engineer geographer from Peru with a focu
 
 <div>
  <img src='./if2.png' width="32%" align="left">
- <img src='./if2.png' width="32%" align="center">
- <img src='./if2.png' width="32%" align="right">
+ <img src='./if2.png' width="32%">
+ <img src='./if2.png' width="32%">
 </div>
 
 <h4>
