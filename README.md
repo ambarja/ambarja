@@ -1,6 +1,6 @@
 ## 📌 About me 🤓 
 <h4 align="center" style = "font-family:Open Sans;font-weight: bold;">
-Hi everyone, my name is Antony, I'm a freelance engineer geographer from Peru with a focus on spatial data science, I love everything about free software and open source for geospatial and I like cats , specially of black color 🐈
+Hi everyone, my name is Antony, I'm a **GIS analyst and developer** from Peru , I love everything about free software and open source for geospatial and I like cats , specially of black color 🐈
 </h4>
 
 <p align='center'>
