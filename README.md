@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/23284899/256990764-e28152aa-c5d6-4208-9abc-ef58b80ccfac.png' width='100%'/>
 <h4 align="center" style = "font-family:Open Sans;font-weight: bold;">
-Hi everyone, my name is Antony, I'm a <strong>GIS analyst and developer</strong> from Peru , I love everything about free software and open source for geospatial and I like cats , specially of black color 🐈
+Hi everyone, my name is Antony. I'm a GIS analyst and developer from Peru. I love everything about free software and open source for geospatial applications, and I like cats, especially black ones 🐈
 </h4>
 
 <p align='center'>
